@@ -1,10 +1,11 @@
-h1. Introduction
+# Introduction
 
-This repository contains definitions for various docker containers.
+This repository contains definitions for creating various docker container images.
 
-h2. CentOS-6 container for running Jenkins build 
+## CentOS-6 Jenkins Slave Containers 
 
 This container is for the [Jenkins Docker plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin). 
+
 First create a docker image using the Dockerfile on a host for running the containers as Jenkins slaves. 
 Then follow the instructions in the Docker Plugin to set up a Docker cloud using this image on the Jenkins dashboard. 
 Afterwards, users can set up build jobs on the Jenkins dashboard to run on the Docker cloud. 
