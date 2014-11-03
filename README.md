@@ -8,4 +8,4 @@ This is for the [Jenkins Docker plugin](https://wiki.jenkins-ci.org/display/JENK
 
 ## CentOS-6 Swarm Slave Containers
 
-This is for the [Jenkins Swarm Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Swarm+Plugin). It allows a Docker container running the Jenkins Swarm Plugin Client to automatically join a Jenkins build cluster as a Jenkins slave host, making the Jenkins cluster elastic with Docker containers.
+This is for the [Jenkins Swarm Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Swarm+Plugin). It allows a Docker container running the Jenkins Swarm Plugin Client to automatically join a Jenkins build cluster as a Jenkins slave host, making the Jenkins cluster elastic with Docker containers as Jenkins slaves.
